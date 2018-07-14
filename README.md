@@ -1,6 +1,6 @@
 ## TextWorlds QA
 
-TextWorlds QA is a new Question Answering dataset introduced in the [following paper](PersonalNarrativeQA.pdf). The inspiration behind the creation of this dataset is to 
+TextWorlds QA is a new Question Answering dataset introduced in the [following paper](PersonalNarrativeQA.pdf). The inspiration behind the creation of this dataset is the vision that our future personal assistants will be able to learn new knowledge from explicit verbal instruction, and then answer questions over that knowledge. 
 
 A quick summary of what this dataset is about (from the paper):
 
@@ -8,7 +8,7 @@ We synthesize narratives in five diverse worlds, each containing a thousand narr
 
 ### Download 
 
-You can download the dataset [here](dataset.tar.gz).
+You can download the dataset [here](https://conversationalmlcourse.bitbucket.io/datasets/stories_dataset.tar.gz).
 
 ### Attribution
 
