@@ -22,7 +22,7 @@ Please email us directly to report new results on this dataset. We will maintain
 
 <table>
   <tr>
-    <th>Authors</th><th colspan="1">Within-World</th><th colspan="1">Across-World</th>
+    <th>Model</th><th colspan="1">Within-World</th><th colspan="1">Across-World</th>
   </tr>
   <tr>
     <th></th>
