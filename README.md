@@ -8,15 +8,25 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 <table>
   <tr>
-    <th colspan="2">Monthly Savings</th>
+    <th>Authors</th><th colspan="3">Within-World</th><th colspan="3">Across-World</th>
   </tr>
   <tr>
-    <td>January</td>
-    <td>$100</td>
-  </tr>
+    <th></th>
+    <th>P</th>
+    <th>R</th>
+    <th>F1</th>
+    <th>P</th>
+    <th>R</th>
+    <th>F1</th>
+  </tr>  
   <tr>
-    <td>February</td>
-    <td>$80</td>
+    <td>Labutov, et al.</td>
+    <td>0.5</td>
+    <td>0.5</td>
+    <td>0.5</td>
+    <td>0.5</td>
+    <td>0.5</td>
+    <td>0.5</td>
   </tr>
 </table>
 
