@@ -12,9 +12,9 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
   </tr>
   <tr>
     <th></th>
-    <th>P</th>
-    <th>R</th>
-    <th>F1</th>
+    <th><i>P</i></th>
+    <th><i>R</i></th>
+    <th><i>F1</i></th>
     <th>P</th>
     <th>R</th>
     <th>F1</th>
