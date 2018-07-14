@@ -1,8 +1,22 @@
 ## TextWorlds QA
 
-TextWorlds QA is a new Question Answering dataset introduced in the [following paper](PersonalNarrativeQA.pdf).
+TextWorlds QA is a new Question Answering dataset introduced in the [following paper](PersonalNarrativeQA.pdf). The inspiration behind the creation of this dataset is to 
 
-### TextWorlds QA
+A quick summary of what this dataset is about (from the paper):
+
+We synthesize narratives in five diverse worlds, each containing a thousand narratives and where each narrative describes the evolution of a simulated user's world from a first-person perspective. In each narrative, the simulated user may introduce new knowledge, update existing knowledge or express a state change (e.g., *"Homework 3 is now due on Friday"* or *"Samantha passed her thesis defense"*). Each narrative is interleaved with questions about the current state of the world, and questions range in complexity depending on the amount of knowledge that needs to be integrated to answer them. This allows us to benchmark a range of QA models at their ability to answer questions that require different extents of relational reasoning to be answered.
+
+### Download 
+
+You can download the dataset [here](dataset.tar.gz).
+
+### Attribution
+
+If you use the dataset please cite:
+
+Labutov, Igor, Bishan Yang, Anusha Prakash, Amos Azaria. "Multi-Relational Question Answering from Narratives: Machine Reading and Reasoning in Simulated Worlds" Proceedings of the 56th Annual Meeting of the Association for Computational Linguistics.
+
+### Benchmarks 
 
 <table>
   <tr>
