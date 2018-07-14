@@ -6,11 +6,11 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### TextWorlds QA
 
-| Within World |   |   |   |   |
-|--------------|---|---|---|---|
-|              |   |   |   |   |
-|              |   |   |   |   |
-|              |   |   |   |   |
+| Within World | Across World  |
+|--------------|---------------|
+| P  |  R | F1 | P  |  R | F1  |
+|------------------------------|
+| 0.1| 0.2| 0.3| 0.1| 0.2| 0.5 |
 
 <table>
    <tr>
