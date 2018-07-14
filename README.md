@@ -8,7 +8,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 <table>
   <tr>
-    <th>Authors</th><th colspan="3">Within-World</th><th colspan="3">Across-World</th>
+    <th>Authors</th><th colspan="1">Within-World</th><th colspan="1">Across-World</th>
   </tr>
   <tr>
     <th></th>
