@@ -12,21 +12,23 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
   </tr>
   <tr>
     <th></th>
-    <th><i>P</i></th>
-    <th><i>R</i></th>
     <th><i>F1</i></th>
-    <th>P</th>
-    <th>R</th>
-    <th>F1</th>
+    <th><i>F1</i></th>
   </tr>  
   <tr>
-    <td>Labutov, et al.</td>
-    <td>0.5</td>
-    <td>0.5</td>
-    <td>0.5</td>
-    <td>0.5</td>
-    <td>0.5</td>
-    <td>0.5</td>
+    <td>MemN2N</td>
+    <td>57.0</td>
+    <td>9.2</td>
+  </tr>
+  <tr>
+    <td>BIDAF</td>
+    <td>72.8</td>
+    <td>16.6</td>
+  </tr>
+  <tr>
+    <td>DrQA</td>
+    <td>79.4</td>
+    <td>23.9</td>
   </tr>
 </table>
 
