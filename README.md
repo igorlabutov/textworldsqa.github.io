@@ -1,6 +1,6 @@
 ## TextWorlds QA
 
-TextWorlds QA is a new Question Answering dataset introduced in the following paper.
+TextWorlds QA is a new Question Answering dataset introduced in the [following paper](PersonalNarrativeQA.pdf).
 
 ### TextWorlds QA
 
