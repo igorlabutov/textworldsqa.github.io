@@ -6,20 +6,17 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### TextWorlds QA
 
-| Within World | Across World  |
-|--------------|---------------|
-| P  |  R | F1 | P  |  R | F1  |
-|------------------------------|
-| 0.1| 0.2| 0.3| 0.1| 0.2| 0.5 |
-
 <table>
-   <tr>
-     <td>Test</td>
-     <td>Test</td>
+  <tr>
+    <th colspan="2">Monthly Savings</th>
   </tr>
-   <tr>
-     <td>Test</td>
-     <td>Test</td>
+  <tr>
+    <td>January</td>
+    <td>$100</td>
+  </tr>
+  <tr>
+    <td>February</td>
+    <td>$80</td>
   </tr>
 </table>
 
